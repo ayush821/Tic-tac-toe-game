@@ -14,7 +14,7 @@ This is the basic design of App in Playing Condition.
 
 ![b](https://user-images.githubusercontent.com/56362227/130275567-bd7c3281-03e1-4cbf-abf3-9233580c4fec.png)
 
-It Can increment the score if someone wins.
+ If someone wins then.
 
 
 
